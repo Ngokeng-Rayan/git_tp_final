@@ -41,7 +41,7 @@ Noms des étudiants :
 * DJIATOU Carlex
 * BOGNING Freddy
 
-Date du jour : 28/01/2021
+Date du jour : 04/02/2026
 
 Tout est ok ? 
 Faites donc un **commit** et **pushez** moi tout ça sur master (sur **votre** dépôt donc, puisque vous l'avez forké).
